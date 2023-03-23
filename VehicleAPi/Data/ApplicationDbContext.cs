@@ -8,7 +8,7 @@ namespace VehicleAPi.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options):base(options) 
         { 
         }
-        public DbSet<Vehicle> Vehicles { get; set; }
+       // public DbSet<Vehicle> Vehicles { get; set; }
 
     }
 }
