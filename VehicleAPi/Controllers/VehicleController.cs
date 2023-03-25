@@ -42,5 +42,6 @@ namespace VehicleAPi.Controllers
         {
             await _vehicleRepository.DeleteVehicle(id);
         }
+
     }
 }

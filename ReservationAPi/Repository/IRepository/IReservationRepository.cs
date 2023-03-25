@@ -8,3 +8,6 @@ namespace ReservationAPi.Repository.IRepository
         Task UpdateMailStatus(int id);
     }
 }
+
+
+
